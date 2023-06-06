@@ -1,0 +1,15 @@
+Django==3.1.5
+
+django-compressor==2.4
+django-dbtemplates==3.0
+django-libsass==0.8
+django-extensions==3.1.0
+django-model-utils==4.1.1
+django-thumbnails==0.3.2
+django-positions==0.6.0
+
+# mysql
+mysqlclient==2.1.1
+
+# dotenv (https://dev.to/earthcomfy/django-how-to-keep-secrets-safe-with-python-dotenv-5811)
+python-dotenv==1.0.0
