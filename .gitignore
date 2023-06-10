@@ -22,3 +22,4 @@ node_modules
 package-lock
 static_files/css
 __pycache__
+.venv
